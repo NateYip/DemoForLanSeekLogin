@@ -16,7 +16,7 @@
 
 效果如下:
 
-> ![image-20210411163724643](C:\Users\nateyip\AppData\Roaming\Typora\typora-user-images\image-20210411163724643.png)
+> ![image-20210411163724643.png](https://i.loli.net/2021/04/12/SUQxr7Oq3EPFmD5.png)
 
 
 
@@ -24,7 +24,7 @@
 
 #### step1：点击Register注册一个新账号，点击注册
 
-![image-20210411164311426](C:\Users\nateyip\AppData\Roaming\Typora\typora-user-images\image-20210411164311426.png)
+![image-20210411164311426.png](https://i.loli.net/2021/04/12/1kldSHFtAvMXuVg.png)
 
 
 
@@ -32,7 +32,7 @@
 
 > 在这里，你可以点击左边导航栏，切换 info 和 todoList 的界面
 
-![image-20210411164544725](C:\Users\nateyip\AppData\Roaming\Typora\typora-user-images\image-20210411164544725.png)
+![image-20210411165606733.png](https://i.loli.net/2021/04/12/6eB3IQG1lqvTCRa.png)
 
 #### step3：在Info界面
 
@@ -40,7 +40,7 @@
 
 ##### 点击Info的Fix按钮，你可以修改具体Info，点击完成可以看到Info被修改
 
-![image-20210411164835982](C:\Users\nateyip\AppData\Roaming\Typora\typora-user-images\image-20210411164835982.png)
+![image-20210411164835982.png](https://i.loli.net/2021/04/12/A6twbXmM3PaBjRh.png)
 
 ----
 
@@ -48,7 +48,7 @@
 
 ##### 点击Add to my TodoList，你会发现在todoList界面下有新的任务
 
-![image-20210411165336285](C:\Users\nateyip\AppData\Roaming\Typora\typora-user-images\image-20210411165336285.png)
+![image-20210411165336285.png](https://i.loli.net/2021/04/12/dbWzfn5BQgtY1mu.png)
 
 ---
 
@@ -58,7 +58,7 @@
 
 > 在上面的模块中可以添加新的Info，点击添加后，可以看见Info新添加了一条
 
-##### ![image-20210411165606733](C:\Users\nateyip\AppData\Roaming\Typora\typora-user-images\image-20210411165606733.png)
+##### ![image-20210411164544725.png](https://i.loli.net/2021/04/12/HRWGdfNkPaL6oOV.png)
 
 ---
 
