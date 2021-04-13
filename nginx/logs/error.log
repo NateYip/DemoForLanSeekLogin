@@ -1,0 +1,1 @@
+2021/04/13 18:24:02 [error] 5672#20380: *22 CreateFile() "D:\tmp\suoyou\nginx/dist/robots.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "localhost", referrer: "http://localhost/"
